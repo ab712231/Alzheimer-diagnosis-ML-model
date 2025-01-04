@@ -35,9 +35,9 @@ All time values should be in milliseconds (ms)
 
 ## How to Use the Application
 
-1. **Download the File**
+1. **Download the Files and place the .exe and .joblib files in the same folder**
    
-2. **Run the .exe File**: Double-click the .exe file and be sure to fullscreen the application.
+2. **Run the .exe File**: Double-click the .exe file in the folder and be sure to fullscreen the application.
 
 3. **Enter the Data**: You’ll be asked to enter several health-related values. Just type the values into the fields provided.
 
