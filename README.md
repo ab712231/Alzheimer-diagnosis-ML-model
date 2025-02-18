@@ -6,55 +6,55 @@ The program will ask for numerical values of metrics of various hanwriting tasks
 For example, air_time1 would indicate the amoutn of time a user's pen was in the air for task 1. num_pendown7 would be the average times a user lifts the pen and puts it back down during the task.
 All time values should be in milliseconds (ms)
 
-1. Signature drawing M  
+1. Signature drawing   
 
-2. Join two points with a horizontal line, continuously for four times G  
+2. Join two points with a horizontal line, continuously for four times   
 
-3. Join two points with a vertical line, continuously for four times G  
+3. Join two points with a vertical line, continuously for four times   
 
-4. Retrace a circle (6 cm of diameter) continuously for four times G  
+4. Retrace a circle (6 cm of diameter) continuously for four times   
 
-5. Retrace a circle (3 cm of diameter) continuously for four times G  
+5. Retrace a circle (3 cm of diameter) continuously for four times   
 
-6. Copy the letters ‘l’, ‘m’ and ‘p’ C  
+6. Copy the letters ‘l’, ‘m’ and ‘p’   
 
-7. Copy the letters on the adjacent rows C  
+7. Copy the letters on the adjacent rows   
 
-8. Write cursively a sequence of four lowercase letter ‘l’, in a single smooth movement C  
+8. Write cursively a sequence of four lowercase letter ‘l’, in a single smooth movement   
 
-9. Write cursively a sequence of four lowercase cursive bigram ‘le’, in a single smooth movement C  
+9. Write cursively a sequence of four lowercase cursive bigram ‘le’, in a single smooth movement   
 
-10. Copy the word ‘‘foglio’’ C  
+10. Copy the word ‘‘foglio’’   
 
-11. Copy the word ‘‘foglio’’ above a line C  
+11. Copy the word ‘‘foglio’’ above a line   
 
-12. Copy the word ‘‘mamma’’ C  
+12. Copy the word ‘‘mamma’’   
 
-13. Copy the word ‘‘mamma’’ above a line C  
+13. Copy the word ‘‘mamma’’ above a line   
 
-14. Memorize the words ‘‘telefono’’, ‘‘cane’’, and ‘‘negozio’’ and rewrite them M  
+14. Memorize the words ‘‘telefono’’, ‘‘cane’’, and ‘‘negozio’’ and rewrite them   
 
-15. Copy in reverse the word ‘‘bottiglia’’ C  
+15. Copy in reverse the word ‘‘bottiglia’’   
 
-16. Copy in reverse the word ‘‘casa’’ C  
+16. Copy in reverse the word ‘‘casa’’   
 
-17. Copy six words (regular, non regular, non words) in the appropriate boxes C  
+17. Copy six words (regular, non regular, non words) in the appropriate boxes   
 
-18. Write the name of the object shown in a picture (a chair) M  
+18. Write the name of the object shown in a picture (a chair)   
 
-19. Copy the fields of a postal order C  
+19. Copy the fields of a postal order   
 
-20. Write a simple sentence under dictation M  
+20. Write a simple sentence under dictation   
 
-21. Retrace a complex form G  
+21. Retrace a complex form   
 
-22. Copy a telephone number C  
+22. Copy a telephone number   
 
-23. Write a telephone number under dictation M  
+23. Write a telephone number under dictation   
 
-24. Draw a clock, with all hours and put hands at 11:05 (Clock Drawing Test) G  
+24. Draw a clock, with all hours and put hands at 11:05 (Clock Drawing Test)   
 
-
+Certain features will require external calculations or external programs. The external application included in the git will be required in parallel to use the program.
 
 ---
 
