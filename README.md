@@ -1,4 +1,4 @@
-# Alzheimer-diagnosis-ML-model
+# CognifyAI
 Machine-learning based diagnosis of alzheimer's disease using the DARWIN dataset. More information on the dataset can be found on te paper Cilia et al. (2022)
 
 
