@@ -1,5 +1,5 @@
 # CognifyAI
-Machine-learning based diagnosis of alzheimer's disease using the DARWIN dataset. More information on the dataset can be found on te paper Cilia et al. (2022)
+Machine-learning based diagnosis of alzheimer's disease using the DARWIN dataset. More information on the dataset can be found on the paper Cilia et al. (2022)
 
 
 The program will ask for numerical values of metrics of various hanwriting tasks. The tasks are listed below.
